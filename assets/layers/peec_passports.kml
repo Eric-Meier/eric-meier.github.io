@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Schema id="schema0" name="schema0">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+      <SimpleField name="Photo Name" type="string"/>
+      <SimpleField name="Photo Date" type="string"/>
+      <SimpleField name="Photo Timestamp" type="string"/>
+      <SimpleField name="Photo Location" type="string"/>
+      <SimpleField name="Photo Altitude" type="string"/>
+      <SimpleField name="Photo Orientation" type="string"/>
+      <SimpleField name="Device Type" type="string"/>
+      <SimpleField name="Rubbed" type="int"/>
+      <SimpleField name="Series" type="int"/>
+    </Schema>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>PEEC Passports</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>Acid Cyn PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">When you are halfway-down into the canyon on the switchbacks, take the right-hand fork that goes towards the nature center, instead of the newer trail that goes to the left. The post is near the all-wooden bridge, close to the Ranch School Trail and a storm water monitoring station. </SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.307213,35.885533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alamo Boundary Trail</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the trailhead signpost.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.443582,35.833506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alcove House</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the back of the big sign at the bottom of the ladders leading up to Alcove House.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.2855064,35.7888543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aspenola PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.384928,35.890684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bandelier Main Loop PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the seat of a rough bench near the beginning of the loop. NOTE: this bench had a tree fall on it and has been moved to the nature trail. </SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.272439,35.78072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayo Bench PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">We are working to reinstall the post near the overlook at the end of the trail. In the meantime, bring your passport to the nature center after hiking this trail to receive credit for this hike.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.271981,35.896478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Dot PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">At the end (bottom) of the trail at the junction with the River Trail.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.179381,35.819834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridges Loop peec post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Near the south side of the big bridge over Pueblo Canyon, at the edge of a large meadow.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.30908,35.89075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burnt Mesa PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On an obvious bench on the left side of the trail as you’re hiking in.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.325644,35.824977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Hamilton Trail</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Near where the trail crosses the road in the bottom of the canyon.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.23851,35.8806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canyon Rim PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Near the west side of the long bridge.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.267274,35.878567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cañada Bonita post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the ski trail kiosk near trailhead.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.392916,35.895982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro Grande</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On a cut tree along the switchbacks just above the big meadow pass.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.4150565,35.8645378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coyote Call PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the back of the trailhead sign (you’ll see it when you finish the hike), right next to the parking area.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.465265,35.848145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deer Trap PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">At the North Point near the overlook.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.259563,35.906348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Downtown PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">North of the Romero Cabin, past the pueblo walls. This plate is not on a 4×4 wooden post, it’s on a wood plate attached to an existing sign. </SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.301382,35.883114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falls Trail post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Look for post 16, which is near the upper falls overlook.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.259329224005,35.761624663401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frey Trail</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Second bench up from the bottom of the canyon, about halfway up the switchbacks.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.2730194,35.7835274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Graduation Canyon post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">The rubbing plate is at the point/overlook.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.285509,35.884491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kinnikinnik Park</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the longest bridge in Kinnikinnik Park (the flat area between the Aquatic Center and Acid Canyon). The bridge is L-shaped.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.30916667,35.88416667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knife Edge Trail</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the trailhead kiosk.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.2465571,35.7944513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kwage Mesa Loop post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">This rubbing plate is currently missing. It was on the return section of trail, at the trail junction toward the east end of the trail along the south rim.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.255978,35.886373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Jara PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On a fence post near a cattle guard across the road from the trailhead.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.490506,35.856338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Conchas Trail</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Signpost just before where the river enters a narrow canyon. Where the trail turns uphill onto switchbacks that lead toward the East Fork trailhead.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.5502777,35.8242073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Alamos Reservoir post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">At the foot of the slope on the north side of the dam.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.353758,35.883357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lower Pajarito Canyon</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Signpost at a trail intersection about half way between Kimberly Lane cul-du-sac and Sherwood Boulevard.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.2064158,35.8145452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitchell Loop post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the signpost that points to the left toward the Mitchell Trail. This signpost is located about a quarter mile from the start of the trail.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.330030888411,35.9076255524998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neblina Trail</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Signpost at the intersection of the Neblina and Rendija Canyons, just north of Guaje Pines Cemetery.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.3008222,35.9085411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pajarito Mountain</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">“BRUCE’S BLVD” kiosk with ski area map at the top of Aspen Lift.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.39519,35.886885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perimeter Trail</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Signpost at the intersection of Perimeter Trail and the “Quemazon Access Trail” that comes from 48th Street off of Urban Street. Just north of Pipeline Road, between Pipeline Road and the Mitchell trailhead.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.33304,35.89743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pueblo Canyon Overlook post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Where the Zipline Trail takes off into the canyon.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.267912571826,35.8804512215312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pueblo Rim Loop post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Where the new trail angles right (the old steep switchback trail continues straight), about 100 ft past the road that comes down from the Jewish Center.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.302729,35.887898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quemazon Nature Trail PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">near the upper portion of the trail around nature trail post number 26.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.33656,35.880453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ranch School PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">At the bottom of the trail near the stream crossing.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.303521,35.889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Dot post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On a spur off the main Red Dot trail, on a signpost for the River Trail, about 200 feet from the Rio Grande.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.1946258,35.8026053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rendija Crack PEEC post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Before you get to the crack, near the cemetery. It’s in a wide-open area and very easy to spot.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.300215,35.906026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>River Trail (a.k.a. Blue Dot-Red Dot Loop)</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Signpost between the Blue Dot and Red Dot Trails, closer to the Red Dot.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.1908788,35.8070026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>South Mountain post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On a signpost located near the junction of VC02 and the logging road trail that goes up the mountain.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.531849,35.846657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tsankawi post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">This rubbing plate is on a signpost that says “loop trail” and has an arrow pointing to the left.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.222697,35.861083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tyounyi Overlook post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On the “Don’t Throw Rocks” sign at the actual overlook, at the end of the trail.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.277393,35.786035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Upper Crossing post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Look on the top of a wilderness sign located just before the trail drops down into Frijoles Canyon.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.358192,35.818996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Upper Pajarito Canyon</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Log on the ground just before the switchbacks up to the intersection of Pajarito Canyon and Nail Trail.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.37325,35.87232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valle de los Posos Overlook</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Signpost at the intersection of Guaje Canyon Trail and Pipeline Road. When you’re standing at the overlook, looking down into the valley the signpost is behind you.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.3921276,35.9249092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valle Grande Pond</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Log on the ground near sign number 8 (closest numbered sign to the big pond).</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.4876991,35.8616117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valle Grande post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On one-mile post, almost to the end of the trail. Leashed dogs are allowed on this trail.</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.436309,35.856587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walnut Canyon Rim post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">On south side of the golf course at the intersection with the utility road that comes up out of the canyon.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.305931,35.894863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Water Canyon post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Look on the trail signpost in the meadow.</SimpleData>
+            <SimpleData name="Rubbed">1</SimpleData>
+            <SimpleData name="Series">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.371796,35.840556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WR Canyon Rim peec post</name>
+        <styleUrl>#style1</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">about halfway to Kimberly Drive from Overlook Park (Blue Dot trailhead)</SimpleData>
+            <SimpleData name="Rubbed">0</SimpleData>
+            <SimpleData name="Series">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.188391,35.81813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style0">
+      <IconStyle>
+        <color>802f80ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/green_pin_classic.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff2f80ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>802f80ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style1">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/green_pin_classic.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>
