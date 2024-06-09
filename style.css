@@ -52,7 +52,6 @@ html {
 
 body {
     width: 100%;
-    text-align: center;
 }
 
 @media (max-width: 600px) {
@@ -62,6 +61,12 @@ body {
         padding: 12px;
     }
 
+    #centerContainer { 
+        max-width: 480px;
+        text-align: left;
+        margin: auto;
+    }
+    
     h1 {
         font-size: 1.8em;
     }
