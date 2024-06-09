@@ -54,7 +54,7 @@ body {
     width: 100%;
 }
 
-@media (max-width: 600px) {
+@media screen and (width <= 480px) {
 
     body {
         font-size: 0.9em;
@@ -62,7 +62,7 @@ body {
     }
 
     #centerContainer { 
-        max-width: 480px;
+        max-width: 460px;
         text-align: left;
         margin: auto;
     }
