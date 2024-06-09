@@ -51,15 +51,17 @@ html {
 }
 
 body {
-    width: 100%;
+    max-width: 100%;
 }
 
-@media screen and (width <= 10000px) {
-
+@media screen and (width <= 480px) {
+    body {
+        max-width: 90%;
+    }
     #centerContainer { 
-        max-width: 10px;
+        max-width: 460px;
         text-align: left;
-        margin: auto;
+        margin: 10px 10px;
     }
     
     h1 {
