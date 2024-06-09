@@ -56,13 +56,8 @@ body {
 
 @media screen and (width <= 10000px) {
 
-    body {
-        font-size: 0.9em;
-        padding: 12px;
-    }
-
     #centerContainer { 
-        max-width: 360px;
+        max-width: 10px;
         text-align: left;
         margin: auto;
     }
