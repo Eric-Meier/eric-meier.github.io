@@ -54,14 +54,10 @@ body {
     max-width: 100%;
 }
 
-@media screen and (width <= 480px) {
-    body {
-        max-width: 90%;
-    }
+@media screen and (width <= 600px) {
     #centerContainer { 
-        max-width: 460px;
+        max-width: 100%;
         text-align: left;
-        margin: 10px 10px;
     }
     
     h1 {
